@@ -24,7 +24,7 @@ const Input: React.FC<InputProps> = ({
       placeholder={placeholder}
       className="
           w-full
-          p-4
+          p-2
           text-lg
           bg-black
           border-2
